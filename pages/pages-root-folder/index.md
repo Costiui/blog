@@ -22,14 +22,14 @@ homepage: true
     <a href="/monument-istoric/castelul-apaffi">
 <img src="{{ site.urlimg }}castel-apaffi-costiui.jpg"  alt="monument istoric castelul apaffi"></a>
 	    <div align="center">Castelul Apaffi</div>
-	    <a class="button tiny radius" href="https://blog.costiui.net/monument-istoric/castelul-apaffi/">{{ site.data.language.read2 }}</a>
+	    <a class="button tiny radius" href="https://blog.costiui.ml/monument-istoric/castelul-apaffi/">{{ site.data.language.read2 }}</a>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
     <a href="/video/filmari-cu-drona">
         <img src="{{ site.urlimg }}ronaszek-tajkep.jpg" alt="filmare cu dron costiui"></a>
        <div align="center">Filmare cu drona Costiui</div>
-	<a class="button tiny radius" href="https://blog.costiui.net/video/filmari-cu-drona/">{{ site.data.language.read2 }}</a>
+	<a class="button tiny radius" href="https://blog.costiui.ml/video/filmari-cu-drona/">{{ site.data.language.read2 }}</a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
