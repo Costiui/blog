@@ -8,16 +8,16 @@
 #
 #
 # Title of your website
-title: 'Blog Costiui.Net'
+title: 'Blog Costiui.ml'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Blog Costiui.Net'
+slogan: 'Blog Costiui.ml'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Coștiui este un sat în comuna Rona de Sus din judeţul Maramureş, Transilvania, România.'
 
 # The credits show up in the includes/_footer.html
-credits: '<p>Creat cu &hearts; de catre <a href="https://costiui.net/">Costiui.Net</a> bazat pe <a href="https://jekyllrb.com/" target="_blank">Jekyll</a></p>'
+credits: '<p>Creat cu &hearts; de catre <a href="https://costiui.ml/">Costiui.ml</a> bazat pe <a href="https://jekyllrb.com/" target="_blank">Jekyll</a></p>'
 
 # Main author of the website
 # See > authors.yml
@@ -25,7 +25,7 @@ author: Costiui
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://blog.costiui.net'
+url: 'https://blog.costiui.ml'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/Costiui/blog/edit/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://blog.costiui.net/images/'
+urlimg: 'https://blog.costiui.ml/images/'
 
 
 # Logo size is 600x80 pixels
