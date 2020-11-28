@@ -7,14 +7,14 @@
   side: left
   
 - title: "Foto"
-  url: "https://foto.costiui.net"
+  url: "https://foto.costiui.ml"
   side: right
   
 - title: "About"
-  url: "https://about.costiui.net"
+  url: "https://about.costiui.ml"
   side: right
 
 - title: "Contact"
   icon: mail
-  url: "https://www.costiui.net/contact"
+  url: "https://contact.costiui.ml"
   side: right
