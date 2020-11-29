@@ -10,7 +10,7 @@
     - src: /images/padurea_costiui.jpg
       title: Pădurea de Larice
       alt: Pădurea de larice Coștiui
-      href: https://blog.costiui.ml/rezervatie-naturala/padurea-de-larice
+      href: https://costiui.ml/rezervatie-naturala/padurea-de-larice
       
     - data-src: /images/costiui2020.jpg
       title: About
@@ -20,7 +20,7 @@
     - data-src: /images/ronaszek-kep.jpg
       title: Video Costiui
       alt: Filmare cu Dron Costiui
-      href: https://blog.costiui.ml/video/filmari-cu-drona
+      href: https://costiui.ml/video/filmari-cu-drona
       
     - src: /images/ronaszek-tajkep.jpg
       title: Poze cu Drona
@@ -30,42 +30,42 @@
     - src: /images/castelul-apaffi.jpg
       title: Castelul Apaffi
       alt: Castelul Apaffi Costiui
-      href: https://blog.costiui.ml/monument-istoric/castelul-apaffi
+      href: https://costiui.ml/monument-istoric/castelul-apaffi
       
     - src: /images/sfi.JPG
       title: Sfântul Ioan Nepomuk
       alt: Statuia Sfântul Ioan Nepomuk din Coștiui
-      href: https://blog.costiui.ml/monument-istoric/sfantul-ioan-nepomuk
+      href: https://costiui.ml/monument-istoric/sfantul-ioan-nepomuk
       
     - src: /images/biserica-rc-costiui.jpg
       title: Biserica Romano Catolica
       alt: Biserica Romano Catolica Sf. Ioan din Costiui
-      href: https://blog.costiui.ml/biserica/romano-catolica
+      href: https://costiui.ml/biserica/romano-catolica
       
     - src: /images/biserica.jpg
       title: Biserica Greco Catolică
       alt: Biserica Greco Catolică din Coștiui
-      href: https://blog.costiui.ml/biserica/greco-catolica
+      href: https://costiui.ml/biserica/greco-catolica
       
     - src: /images/biserica-calvaria.jpg
       title: Biserica Calvaria
       alt: Biserica Calvaria din Coștiui
-      href: https://blog.costiui.ml/biserica/calvaria
+      href: https://costiui.ml/biserica/calvaria
       
     - src: /images/capela-sf-ana.jpg
       title: Capela Sf. Ana
       alt: Capela Sf. Ana din Coștiui
-      href: https://blog.costiui.ml/capela/sf-ana
+      href: https://costiui.ml/capela/sf-ana
       
     - src: /images/capela-fecioara-maria-costiui.jpg
       title: Capela Fecioara Maria
       alt: Capela Fecioara Maria din Coștiui
-      href: https://blog.costiui.ml/capela/fecioara-maria
+      href: https://costiui.ml/capela/fecioara-maria
       
     - src: /images/bazin_costiui.jpg
       title: Băile Coștiui
       alt: băile sărate de la Coștiui
-      href: https://blog.costiui.ml/balneare/baile-sarate
+      href: https://costiui.ml/balneare/baile-sarate
       
   settings:
     height: 400
