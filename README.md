@@ -1,1 +1,1 @@
-## Simple Blog [Costiui](https://blog.costiui.ml) :)
+## Simple Blog [Costiui](https://costiui.ml) :)
